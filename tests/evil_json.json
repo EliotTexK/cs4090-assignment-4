@@ -1,0 +1,13 @@
+// COMMENTS AREN'T ALLOWED IN JSON HAHAHAHAHA
+[
+    {
+      "id": 1,
+      "title" = "meat",
+      "description": "",
+      "priority": "Low" "Woah",
+      "category": "Work",
+      "due_date": "2025-04-27",
+      "completed": true,
+      "created_at": "2025-04-27 21:16:05"
+    }
+  ]
